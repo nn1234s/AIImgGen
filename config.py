@@ -1,4 +1,6 @@
-HF_API_KEY = "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"
+import streamlit as st
+
+HF_API_KEY = st.secrets["HF_API_KEY"]
 
 HF_IMAGE_MODEL = "stabilityai/stable-diffusion-xl-base-1.0"
 
