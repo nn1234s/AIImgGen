@@ -3,6 +3,7 @@
 An open-source, AI-powered profile picture (PFP) generator designed to create high-quality, customized avatars effortlessly using Python. Created by **code1022w** on XDA.
 
 > ⚠️ **Project Status: FINALLY RELEASED!** Web version:- https://zingquark-ai-avatar.streamlit.app/
+<img width="1377" height="744" alt="image" src="https://github.com/user-attachments/assets/4831b26b-1139-4324-9ffd-44cc2cc3f651" />
 
 ---
 
