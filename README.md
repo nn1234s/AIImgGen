@@ -12,7 +12,7 @@ An open-source, AI-powered profile picture (PFP) generator designed to create hi
 *   **AI-Powered Generation:** Instantly creates unique profile pictures based on text prompts or image inputs.
 *   **Highly Customizable:** Tweak art styles, color palettes, lighting, and expressions.
 *   **Privacy-Focused & Open Source:** Full control over your data with local or secure API processing.
-*   **Web Version Upcoming:** Designed to run seamlessly in the browser for an easy, no-install experience.
+*   **Supports Hugging Face API Key- 100% free** Just enter your key in Streamlit Secrets.
 
 ---
 
